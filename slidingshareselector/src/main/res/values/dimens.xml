@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <dimen name="slidingshareselector_thumbnail_grid_side_margin">4dp</dimen>
+  <dimen name="slidingshareselector_thumbnail_grid_top_bottom_margin">8dp</dimen>
+  <dimen name="slidingshareselector_recents_height">96dp</dimen>
+  <dimen name="slidingshareselector_option_size">64dp</dimen>
+  <dimen name="slidingshareselector_option_size_w_margins">80dp</dimen>
+  <dimen name="slidingshareselector_option_padding">16dp</dimen>
+  <dimen name="slidingshareselector_option_margin">16dp</dimen>
+</resources>
