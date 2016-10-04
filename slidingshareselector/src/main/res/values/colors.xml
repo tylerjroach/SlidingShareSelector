@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <color name="slidingshareselector_default_background">#F5F5F5</color>
+  <color name="slidingshareselector_selector_foreground">#33000000</color>
 </resources>

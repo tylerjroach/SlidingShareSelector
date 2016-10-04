@@ -11,6 +11,7 @@
       android:scaleType="centerCrop"
       android:padding="@dimen/slidingshareselector_option_padding"
       android:layout_gravity="center"
-      android:layout_margin="8dp"/>
+      android:layout_margin="8dp"
+      android:foreground="@drawable/circle_foreground_selection_states"/>
 
 </FrameLayout>

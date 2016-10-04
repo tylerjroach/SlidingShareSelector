@@ -34,7 +34,6 @@
           android:inputType="textCapSentences|textAutoCorrect|textMultiLine"
           android:maxLength="1000"
           android:maxLines="4"
-          android:textColor="@color/black"
           android:imeOptions="flagNoExtractUi|flagNoFullscreen"
           android:layout_centerVertical="true"
           android:background="@color/transparent"
@@ -58,8 +57,7 @@
         android:layout_width="match_parent"
         android:layout_height="?attr/actionBarSize"
         android:minHeight="?attr/actionBarSize"
-        android:background="?attr/colorPrimary"
-        android:title="@string/app_name"/>
+        android:background="?attr/colorPrimary"/>
 
   </RelativeLayout>
 
