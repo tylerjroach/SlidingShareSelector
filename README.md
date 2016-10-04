@@ -5,6 +5,7 @@ An adaptable BottomSheetDialogFragment that shows a scrolling list of recent pho
 ![demo](preview.gif?raw=true "Demo Preview")
 
 ## How to use
+Make sure your app has permission for android.permission.READ_EXTERNAL_STORAGE
 
 Create a list of share actions by passing a drawable, background color, and callback id for each option.
 ```
@@ -66,6 +67,9 @@ Post to MavenCentral - For now, build aar manually<br>
 Fix lazy paddings/margins/itemdecorations to properly follow material design<br>
 Add documentation to code<br>
 Add more customization options
+
+##Known Issues
+I haven't taken into account a users gallery could be empty
 
 ## License
 ```
