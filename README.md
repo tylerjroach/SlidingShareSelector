@@ -1,4 +1,4 @@
-# SlidingShareSelector
+# SlidingShareSelector - Android
 
 An adaptable BottomSheetDialogFragment that shows a scrolling list of recent photos, along with a grid of custimizable icons for sharing.
 
