@@ -1,6 +1,6 @@
 # SlidingShareSelector
 
-An adaptable BottomSheetDialogFragment that shows a scrolling list of recent photos, along with a grid of custimizeable icons for sharing. 
+An adaptable BottomSheetDialogFragment that shows a scrolling list of recent photos, along with a grid of custimizable icons for sharing.
 
 ![demo](preview.gif?raw=true "Demo Preview")
 
@@ -59,7 +59,7 @@ Take action based on the callback received
 ## Comments
 Feel free to suggest any additions or create pull requests. 
 This was created in a couple of hours and doesn't have many configuration options. 
-Documentation is also non-existant, but the code should be simple to figure out. 
+Documentation is also non-existent, but the code should be simple to figure out.
 
 ##Future Updates (Time Permitting)
 Post to MavenCentral - For now, build aar manually<br>
