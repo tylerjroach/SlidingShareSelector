@@ -46,7 +46,7 @@ public class SelectionRecyclerAdapter extends RecyclerView.Adapter<SelectionRecy
     final GridLayoutManager selectionRecyclerLayoutManager = (GridLayoutManager) this.selectionRecycler.getLayoutManager();
     selectionRecyclerLayoutManager.setSpanSizeLookup(new GridLayoutManager.SpanSizeLookup() {
       @Override public int getSpanSize(int position) {
-        if (position == 0)
+        if (position == 0 && selectionRecyclerLayoutManager != null)
           //position 0 is recents header
           return selectionRecyclerLayoutManager.getSpanCount();
         else
